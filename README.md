@@ -13,3 +13,7 @@ It was an initial challenge to get the S3 bucket permissions set properly.
 
 ## Extras
 Adding a calculator was inspired by ideas from other students in my class.
+
+##PRoject hosted on AWS S3 Bucket here:
+http://philipcasebankingapp.s3-website-us-west-1.amazonaws.com/#/
+
